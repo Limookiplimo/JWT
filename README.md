@@ -1,2 +1,2 @@
 # JWT
-Custom json web generation.
+Custom json web token generation.
